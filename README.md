@@ -9,7 +9,7 @@
 route <network/doman_name/ip_address> <netmask> <gateway>
 ```
 
-gateway может принимать (пока) только одно значение vpn_gateway (указанный интерфейс)
+gateway может принимать (пока) только либо vpn_gateway (указанный интерфейс), либо IP адресс
 
 Например:
 
