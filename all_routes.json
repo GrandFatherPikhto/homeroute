@@ -1,0 +1,69 @@
+{
+  "timestamp": "2025-05-06T07:34:53.471775",
+  "total_routes": 9,
+  "routes": [
+    {
+      "destination": "default",
+      "via": "78.107.249.217",
+      "dev": "enp4s0",
+      "metric": 100,
+      "raw": "default via 78.107.249.217 dev enp4s0 proto dhcp src 78.107.249.218 metric 100 "
+    },
+    {
+      "destination": "10.95.2.0/26",
+      "via": null,
+      "dev": "enp2s0",
+      "metric": null,
+      "raw": "10.95.2.0/26 dev enp2s0 proto kernel scope link src 10.95.2.1 "
+    },
+    {
+      "destination": "10.95.2.0/26",
+      "via": "10.95.2.1",
+      "dev": "enp2s0",
+      "metric": null,
+      "raw": "10.95.2.0/26 via 10.95.2.1 dev enp2s0 proto static "
+    },
+    {
+      "destination": "10.95.2.64/26",
+      "via": null,
+      "dev": "enp2s0",
+      "metric": null,
+      "raw": "10.95.2.64/26 dev enp2s0 proto kernel scope link src 10.95.2.65 "
+    },
+    {
+      "destination": "10.95.2.64/26",
+      "via": "10.95.2.65",
+      "dev": "enp2s0",
+      "metric": null,
+      "raw": "10.95.2.64/26 via 10.95.2.65 dev enp2s0 proto static "
+    },
+    {
+      "destination": "78.107.249.216/30",
+      "via": null,
+      "dev": "enp4s0",
+      "metric": 100,
+      "raw": "78.107.249.216/30 dev enp4s0 proto kernel scope link src 78.107.249.218 metric 100 "
+    },
+    {
+      "destination": "78.107.249.217",
+      "via": null,
+      "dev": "enp4s0",
+      "metric": 100,
+      "raw": "78.107.249.217 dev enp4s0 proto dhcp scope link src 78.107.249.218 metric 100 "
+    },
+    {
+      "destination": "85.21.192.5",
+      "via": "78.107.249.217",
+      "dev": "enp4s0",
+      "metric": 100,
+      "raw": "85.21.192.5 via 78.107.249.217 dev enp4s0 proto dhcp src 78.107.249.218 metric 100 "
+    },
+    {
+      "destination": "213.234.192.7",
+      "via": "78.107.249.217",
+      "dev": "enp4s0",
+      "metric": 100,
+      "raw": "213.234.192.7 via 78.107.249.217 dev enp4s0 proto dhcp src 78.107.249.218 metric 100 "
+    }
+  ]
+}

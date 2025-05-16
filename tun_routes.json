@@ -1,0 +1,310 @@
+{
+    "tun_ip": "10.109.154.78/21",
+    "routes": [
+        {
+            "dst": "10.95.2.0 255.255.255.192",
+            "gateway": "metric",
+            "comment": "Converted from: route 10.95.2.0 255.255.255.192 metric 600  # Указываем высокий metric"
+        },
+        {
+            "dst": "54.194.135.49/32",
+            "gateway": null,
+            "comment": "Converted from: route st.com 255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "54.194.135.49/32",
+            "gateway": null,
+            "comment": "Converted from: route 54.194.135.49 255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "209.85.233.91/32",
+            "gateway": null,
+            "comment": "Converted from: route youtube.com 255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "64.233.161.104/32",
+            "gateway": null,
+            "comment": "Converted from: route googlevideo.com 255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "13.107.21.237/32",
+            "gateway": null,
+            "comment": "Converted from: route copilot.microsoft.com 255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "150.171.28.10/32",
+            "gateway": null,
+            "comment": "Converted from: route bing.com 255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "172.64.155.209/32",
+            "gateway": null,
+            "comment": "Converted from: route chatgpt.com 255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "188.114.96.1/32",
+            "gateway": null,
+            "comment": "Converted from: route hidemy.name 255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "188.114.99.232/32",
+            "gateway": null,
+            "comment": "Converted from: route 188.114.99.232 255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "162.159.140.0/24",
+            "gateway": null,
+            "comment": "Converted from: route 162.159.140.0 255.255.255.0 vpn_gateway"
+        },
+        {
+            "dst": "172.64.150.0/24",
+            "gateway": null,
+            "comment": "Converted from: route 172.64.150.0  255.255.255.0 vpn_gateway"
+        },
+        {
+            "dst": "104.18.37.0/24",
+            "gateway": null,
+            "comment": "Converted from: route 104.18.37.0 255.255.255.0 vpn_gateway"
+        },
+        {
+            "dst": "104.18.35.28/32",
+            "gateway": null,
+            "comment": "Converted from: route 104.18.35.28  255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "104.18.41.241/32",
+            "gateway": null,
+            "comment": "Converted from: route 104.18.41.241 255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "172.64.152.228/32",
+            "gateway": null,
+            "comment": "Converted from: route 172.64.152.228 255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "172.64.146.15/32",
+            "gateway": null,
+            "comment": "Converted from: route 172.64.146.15 255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "188.114.98.0/24",
+            "gateway": null,
+            "comment": "Converted from: route 188.114.98.0 255.255.255.0 vpn_gateway"
+        },
+        {
+            "dst": "188.114.99.0/24",
+            "gateway": null,
+            "comment": "Converted from: route 188.114.99.0 255.255.255.0 vpn_gateway"
+        },
+        {
+            "dst": "172.64.155.209/32",
+            "gateway": null,
+            "comment": "Converted from: route 172.64.155.209 255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "104.18.39.85/32",
+            "gateway": null,
+            "comment": "Converted from: route 104.18.39.85 255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "172.64.148.171/32",
+            "gateway": null,
+            "comment": "Converted from: route 172.64.148.171 255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "172.64.155.214/32",
+            "gateway": null,
+            "comment": "Converted from: route 172.64.155.214 255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "104.18.32.0/24",
+            "gateway": null,
+            "comment": "Converted from: route 104.18.32.0  255.255.255.0 vpn_gateway"
+        },
+        {
+            "dst": "54.194.135.49/32",
+            "gateway": null,
+            "comment": "Converted from: route 54.194.135.49 255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "104.21.32.39/32",
+            "gateway": null,
+            "comment": "Converted from: route 104.21.32.39 255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "172.67.182.196/32",
+            "gateway": null,
+            "comment": "Converted from: route 172.67.182.196 255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "104.18.26.90/32",
+            "gateway": null,
+            "comment": "Converted from: route chat.deepseek.com 255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "104.18.27.90/32",
+            "gateway": null,
+            "comment": "Converted from: route deepseek.com 255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "185.70.42.45/32",
+            "gateway": null,
+            "comment": "Converted from: route 185.70.42.45 255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "185.70.42.36/32",
+            "gateway": null,
+            "comment": "Converted from: route 185.70.42.36 255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "185.70.42.0/24",
+            "gateway": null,
+            "comment": "Converted from: route 185.70.42.0 255.255.255.0 vpn_gateway"
+        },
+        {
+            "dst": "109.224.244.0/24",
+            "gateway": null,
+            "comment": "Converted from: route 109.224.244.0 255.255.255.0 vpn_gateway"
+        },
+        {
+            "dst": "176.119.200.0/24",
+            "gateway": null,
+            "comment": "Converted from: route 176.119.200.0 255.255.255.0 vpn_gateway"
+        },
+        {
+            "dst": "185.205.70.0/24",
+            "gateway": null,
+            "comment": "Converted from: route 185.205.70.0 255.255.255.0 vpn_gateway"
+        },
+        {
+            "dst": "185.70.40.0/24",
+            "gateway": null,
+            "comment": "Converted from: route 185.70.40.0 255.255.255.0 vpn_gateway"
+        },
+        {
+            "dst": "185.70.41.0/24",
+            "gateway": null,
+            "comment": "Converted from: route 185.70.41.0 255.255.255.0 vpn_gateway"
+        },
+        {
+            "dst": "185.70.42.0/24",
+            "gateway": null,
+            "comment": "Converted from: route 185.70.42.0 255.255.255.0 vpn_gateway"
+        },
+        {
+            "dst": "185.70.43.0/24",
+            "gateway": null,
+            "comment": "Converted from: route 185.70.43.0 255.255.255.0 vpn_gateway"
+        },
+        {
+            "dst": "194.0.147.0/24",
+            "gateway": null,
+            "comment": "Converted from: route 194.0.147.0 255.255.255.0 vpn_gateway"
+        },
+        {
+            "dst": "79.135.106.0/24",
+            "gateway": null,
+            "comment": "Converted from: route 79.135.106.0 255.255.255.0 vpn_gateway"
+        },
+        {
+            "dst": "79.135.107.0/24",
+            "gateway": null,
+            "comment": "Converted from: route 79.135.107.0 255.255.255.0 vpn_gateway"
+        },
+        {
+            "dst": "185.159.159.0/24",
+            "gateway": null,
+            "comment": "Converted from: route 185.159.159.0 255.255.255.0 vpn_gateway"
+        },
+        {
+            "dst": "140.82.121.6/32",
+            "gateway": null,
+            "comment": "Converted from: route 140.82.121.6\t255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "140.82.121.5/32",
+            "gateway": null,
+            "comment": "Converted from: route 140.82.121.5      255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "140.82.114.22/32",
+            "gateway": null,
+            "comment": "Converted from: route 140.82.114.22     255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "140.82.114.21/32",
+            "gateway": null,
+            "comment": "Converted from: route 140.82.114.21     255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "140.82.113.22/32",
+            "gateway": null,
+            "comment": "Converted from: route 140.82.113.22     255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "140.82.113.21/32",
+            "gateway": null,
+            "comment": "Converted from: route 140.82.113.21     255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "140.82.112.22/32",
+            "gateway": null,
+            "comment": "Converted from: route 140.82.112.22     255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "140.82.112.21/32",
+            "gateway": null,
+            "comment": "Converted from: route 140.82.112.21     255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "20.250.119.64/32",
+            "gateway": null,
+            "comment": "Converted from: route 20.250.119.64     255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "20.199.39.224/32",
+            "gateway": null,
+            "comment": "Converted from: route 20.199.39.224     255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "4.225.11.192/32",
+            "gateway": null,
+            "comment": "Converted from: route 4.225.11.192      255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "31.13.72.0/24",
+            "gateway": null,
+            "comment": "Converted from: route 31.13.72.0\t255.255.255.0\tvpn_gateway"
+        },
+        {
+            "dst": "185.89.218.12/32",
+            "gateway": null,
+            "comment": "Converted from: route 185.89.218.12\t255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "129.134.31.12/32",
+            "gateway": null,
+            "comment": "Converted from: route 129.134.31.12\t255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "129.134.30.12/32",
+            "gateway": null,
+            "comment": "Converted from: route 129.134.30.12\t255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "185.89.219.12/32",
+            "gateway": null,
+            "comment": "Converted from: route 185.89.219.12\t255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "104.17.192.8/32",
+            "gateway": null,
+            "comment": "Converted from: route 104.17.192.8\t255.255.255.255 vpn_gateway"
+        },
+        {
+            "dst": "104.17.193.8/32",
+            "gateway": null,
+            "comment": "Converted from: route 104.17.193.8\t255.255.255.255 vpn_gateway"
+        }
+    ]
+}

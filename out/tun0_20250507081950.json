@@ -1,0 +1,447 @@
+{
+  "timestamp": "2025-05-07T08:19:50.075200",
+  "total_routes": 63,
+  "routes": [
+    {
+      "destination": "4.225.11.192",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "4.225.11.192 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "10.109.152.0/21",
+      "via": null,
+      "dev": "tun0",
+      "metric": null,
+      "raw": "10.109.152.0/21 dev tun0 proto kernel scope link src 10.109.154.78 "
+    },
+    {
+      "destination": "13.107.21.237",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "13.107.21.237 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "20.199.39.224",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "20.199.39.224 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "20.250.119.64",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "20.250.119.64 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "31.13.72.0/24",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "31.13.72.0/24 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "54.194.135.49",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "54.194.135.49 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "79.135.106.0/24",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "79.135.106.0/24 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "79.135.107.0/24",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "79.135.107.0/24 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "104.17.192.8",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "104.17.192.8 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "104.17.193.8",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "104.17.193.8 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "104.18.26.90",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "104.18.26.90 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "104.18.27.90",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "104.18.27.90 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "104.18.32.0/24",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "104.18.32.0/24 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "104.18.35.28",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "104.18.35.28 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "104.18.37.0/24",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "104.18.37.0/24 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "104.18.39.85",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "104.18.39.85 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "104.18.41.241",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "104.18.41.241 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "104.21.32.39",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "104.21.32.39 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "104.26.2.200",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "104.26.2.200 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "104.26.3.200",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "104.26.3.200 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "109.224.244.0/24",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "109.224.244.0/24 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "129.134.30.12",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "129.134.30.12 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "129.134.31.12",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "129.134.31.12 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "140.82.112.21",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "140.82.112.21 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "140.82.112.22",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "140.82.112.22 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "140.82.113.21",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "140.82.113.21 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "140.82.113.22",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "140.82.113.22 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "140.82.114.21",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "140.82.114.21 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "140.82.114.22",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "140.82.114.22 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "140.82.121.5",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "140.82.121.5 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "140.82.121.6",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "140.82.121.6 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "142.250.74.228",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "142.250.74.228 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "150.171.27.10",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "150.171.27.10 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "150.171.28.10",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "150.171.28.10 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "162.159.140.0/24",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "162.159.140.0/24 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "172.64.146.15",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "172.64.146.15 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "172.64.148.171",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "172.64.148.171 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "172.64.150.0/24",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "172.64.150.0/24 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "172.64.152.228",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "172.64.152.228 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "172.64.155.209",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "172.64.155.209 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "172.64.155.214",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "172.64.155.214 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "172.67.71.85",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "172.67.71.85 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "172.67.182.196",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "172.67.182.196 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "176.119.200.0/24",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "176.119.200.0/24 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "185.70.40.0/24",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "185.70.40.0/24 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "185.70.41.0/24",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "185.70.41.0/24 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "185.70.42.0/24",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "185.70.42.0/24 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "185.70.42.36",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "185.70.42.36 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "185.70.42.45",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "185.70.42.45 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "185.70.43.0/24",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "185.70.43.0/24 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "185.89.218.12",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "185.89.218.12 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "185.89.219.12",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "185.89.219.12 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "185.159.159.0/24",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "185.159.159.0/24 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "185.205.70.0/24",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "185.205.70.0/24 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "188.114.98.0/24",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "188.114.98.0/24 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "188.114.98.224",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "188.114.98.224 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "188.114.99.0/24",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "188.114.99.0/24 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "188.114.99.224",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "188.114.99.224 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "188.114.99.232",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "188.114.99.232 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "194.0.147.0/24",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "194.0.147.0/24 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "204.79.197.237",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "204.79.197.237 via 10.109.152.1 dev tun0 "
+    },
+    {
+      "destination": "216.58.214.78",
+      "via": "10.109.152.1",
+      "dev": "tun0",
+      "metric": null,
+      "raw": "216.58.214.78 via 10.109.152.1 dev tun0 "
+    }
+  ]
+}

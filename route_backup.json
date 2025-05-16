@@ -1,0 +1,371 @@
+[
+    {
+        "dst": "",
+        "gateway": "78.107.249.217",
+        "oif": 3,
+        "table": 254,
+        "priority": 100,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "10.95.2.0",
+        "gateway": "",
+        "oif": 2,
+        "table": 254,
+        "priority": 0,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "10.95.2.0",
+        "gateway": "10.95.2.1",
+        "oif": 2,
+        "table": 254,
+        "priority": 0,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "10.95.2.64",
+        "gateway": "",
+        "oif": 2,
+        "table": 254,
+        "priority": 0,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "10.95.2.64",
+        "gateway": "10.95.2.65",
+        "oif": 2,
+        "table": 254,
+        "priority": 0,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "10.109.152.0",
+        "gateway": "",
+        "oif": 10,
+        "table": 254,
+        "priority": 0,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "78.107.249.216",
+        "gateway": "",
+        "oif": 3,
+        "table": 254,
+        "priority": 100,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "78.107.249.217",
+        "gateway": "",
+        "oif": 3,
+        "table": 254,
+        "priority": 100,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "85.21.192.5",
+        "gateway": "78.107.249.217",
+        "oif": 3,
+        "table": 254,
+        "priority": 100,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "213.234.192.7",
+        "gateway": "78.107.249.217",
+        "oif": 3,
+        "table": 254,
+        "priority": 100,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "10.95.2.1",
+        "gateway": "",
+        "oif": 2,
+        "table": 255,
+        "priority": 0,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "10.95.2.2",
+        "gateway": "",
+        "oif": 2,
+        "table": 255,
+        "priority": 0,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "10.95.2.3",
+        "gateway": "",
+        "oif": 2,
+        "table": 255,
+        "priority": 0,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "10.95.2.4",
+        "gateway": "",
+        "oif": 2,
+        "table": 255,
+        "priority": 0,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "10.95.2.5",
+        "gateway": "",
+        "oif": 2,
+        "table": 255,
+        "priority": 0,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "10.95.2.6",
+        "gateway": "",
+        "oif": 2,
+        "table": 255,
+        "priority": 0,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "10.95.2.7",
+        "gateway": "",
+        "oif": 2,
+        "table": 255,
+        "priority": 0,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "10.95.2.63",
+        "gateway": "",
+        "oif": 2,
+        "table": 255,
+        "priority": 0,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "10.95.2.65",
+        "gateway": "",
+        "oif": 2,
+        "table": 255,
+        "priority": 0,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "10.95.2.66",
+        "gateway": "",
+        "oif": 2,
+        "table": 255,
+        "priority": 0,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "10.95.2.67",
+        "gateway": "",
+        "oif": 2,
+        "table": 255,
+        "priority": 0,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "10.95.2.100",
+        "gateway": "",
+        "oif": 2,
+        "table": 255,
+        "priority": 0,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "10.95.2.127",
+        "gateway": "",
+        "oif": 2,
+        "table": 255,
+        "priority": 0,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "10.109.154.78",
+        "gateway": "",
+        "oif": 10,
+        "table": 255,
+        "priority": 0,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "10.109.159.255",
+        "gateway": "",
+        "oif": 10,
+        "table": 255,
+        "priority": 0,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "78.107.249.218",
+        "gateway": "",
+        "oif": 3,
+        "table": 255,
+        "priority": 0,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "78.107.249.219",
+        "gateway": "",
+        "oif": 3,
+        "table": 255,
+        "priority": 0,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "127.0.0.0",
+        "gateway": "",
+        "oif": 1,
+        "table": 255,
+        "priority": 0,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "127.0.0.1",
+        "gateway": "",
+        "oif": 1,
+        "table": 255,
+        "priority": 0,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "127.255.255.255",
+        "gateway": "",
+        "oif": 1,
+        "table": 255,
+        "priority": 0,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "fe80::",
+        "gateway": "",
+        "oif": 3,
+        "table": 254,
+        "priority": 256,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "fe80::",
+        "gateway": "",
+        "oif": 2,
+        "table": 254,
+        "priority": 256,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "fe80::",
+        "gateway": "",
+        "oif": 10,
+        "table": 254,
+        "priority": 256,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "::1",
+        "gateway": "",
+        "oif": 1,
+        "table": 255,
+        "priority": 0,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "fe80::",
+        "gateway": "",
+        "oif": 10,
+        "table": 255,
+        "priority": 0,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "fe80::2e0:4cff:fe69:5b52",
+        "gateway": "",
+        "oif": 2,
+        "table": 255,
+        "priority": 0,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "fe80::9e5c:8eff:fe7c:a629",
+        "gateway": "",
+        "oif": 3,
+        "table": 255,
+        "priority": 0,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "fe80::db4f:c5a6:57c5:4e69",
+        "gateway": "",
+        "oif": 10,
+        "table": 255,
+        "priority": 0,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "ff00::",
+        "gateway": "",
+        "oif": 3,
+        "table": 255,
+        "priority": 256,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "ff00::",
+        "gateway": "",
+        "oif": 2,
+        "table": 255,
+        "priority": 256,
+        "scope": 0,
+        "proto": 0
+    },
+    {
+        "dst": "ff00::",
+        "gateway": "",
+        "oif": 10,
+        "table": 255,
+        "priority": 256,
+        "scope": 0,
+        "proto": 0
+    }
+]
