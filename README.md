@@ -57,3 +57,9 @@ status /var/log/openvpn/traffic.log 5
 - ```route 10.95.2.0 255.255.255.192 metric 600``` нужен для того, чтобы была маршрутизация по умолчанию, не через tun0
 - ```route-pre-down``` самопроизвольно передаёт первым аргументом имя интерфейса, к примеру ```tun0```
 - ```route-up``` этого не делает, поэтому надо передавать имя интерфейса _явно_
+
+# Команды tasks для VSCode
+
+F1=>Tasks:Run Task
+- Reload Route Manager
+- Build With PyInstaller
