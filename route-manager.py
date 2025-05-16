@@ -83,16 +83,18 @@ class RouteManager:
         """Добавляет маршруты к интерфейсу {self.iface_name}"""
         counter = 0
         for route in self.routes:
-            if route['gateway'] == 'vpn_gateway':
-                # print(route)
-                try:
-                    self.ip_route.route("add", dst=route["network"], gateway=self.iface_ip)
-                    # print(res)
-                    print(f"[+] Добавлен маршрут {route['network']} через {self.iface_name}")
-                    self.current_routes.append(route)
-                    counter += 1
-                except Exception as e:
-                    print(f'[-] Ошибка добавления маршрута: {e}')
+            gateway = self.iface_ip
+            if route['gateway'] != 'vpn_gateway':
+                gateway = route['gateway']
+            try:
+                self.ip_route.route("add", dst=route["network"], gateway=gateway)
+                # print(res)
+                print(f"[+] Добавлен маршрут {route['network']} через {self.iface_name}")
+                self.current_routes.append(route)
+                counter += 1
+            except Exception as e:
+                print(f'[-] Ошибка добавления маршрута: {e}')
+                    
         self.save_current_routes()
         print(f"[+] Добавлено {counter} маршрутов к {self.iface_name}")
         
