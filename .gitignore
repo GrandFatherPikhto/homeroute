@@ -17,3 +17,4 @@
 **/.coverage.*
 **/.hypothesis/
 **/.hypothesis.*
+./current_routes.json
