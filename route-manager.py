@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 from pyroute2 import IPRoute
 import argparse
 import json
@@ -64,9 +64,12 @@ class RouteManager:
 
     def save_current_routes(self):
         """Сохраняет текущие маршруты в файл."""
-        with open(self.current_routes_file, "w") as f:
-            # print(self.current_routes)
-            json.dump(self.current_routes, f, indent=4)
+        try:
+            with open(self.current_routes_file, "w") as f:
+                # print(self.current_routes)
+                json.dump(self.current_routes, f, indent=4)
+        except OSError as e:
+            print(f'Ошибка открытия файла: {e}')
 
         print(f"[+] Сохранено {len(self.current_routes)} маршрутов в {BACKUP_FILE}")
         

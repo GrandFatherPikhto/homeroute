@@ -63,3 +63,22 @@ status /var/log/openvpn/traffic.log 5
 F1=>Tasks:Run Task
 - Reload Route Manager
 - Build With PyInstaller
+
+# Команда разрешения работы скрипта из под пользователя
+
+1. Дать разрешение python3:
+    ```sudo setcap cap_net_admin+eip $(readlink -f $(which python3))```
+
+2. Создать специальную группу и дать права:
+
+```bash
+# Создаем новую группу
+sudo groupadd netadmin
+
+# Добавляем пользователя в группу
+sudo usermod -aG netadmin ваш_пользователь
+
+# Назначаем права на сетевые интерфейсы
+sudo chgrp netadmin /sys/class/net/
+sudo chmod g+rw /sys/class/net/
+```
